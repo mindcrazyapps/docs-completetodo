@@ -6,7 +6,7 @@
 
 <h1 align="center">CompleteTodo</h5>
 
-- [Welcome]()
+- [Welcome](/about.md)
 - [Synchronization]()
 - [Sharing]()
 - [Markdown]()
@@ -15,10 +15,10 @@
 - [Location]()
 - [Manual sorting]()
 - [Beta testing]()
-- [Translations]()
+- [Translations](/translations3.md)
 - [Subscribe]()
 - [Donate]()
-- [Themes]()
+- [Themes](/themes.md)
 - [Tasker Plugins]()
 - [Privacy Policy]()
 - [Tasks.org sync]()
